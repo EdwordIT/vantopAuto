@@ -1,0 +1,6 @@
+framework module Pods_VTAutoSDK_Tests {
+  umbrella header "Pods-VTAutoSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

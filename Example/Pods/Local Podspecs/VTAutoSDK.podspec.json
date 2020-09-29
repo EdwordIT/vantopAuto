@@ -1,0 +1,22 @@
+{
+  "name": "VTAutoSDK",
+  "version": "0.1.0",
+  "summary": "A short description of VTAutoSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhanwenbaoit@126.com/VTAutoSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhanwenbaoit@126.com": "zhanwenbaoit@126.com"
+  },
+  "source": {
+    "git": "https://github.com/zhanwenbaoit@126.com/VTAutoSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VTAutoSDK/Classes/**/*"
+}
